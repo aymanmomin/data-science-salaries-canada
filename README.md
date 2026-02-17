@@ -52,7 +52,7 @@ pip --version
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/data-science-salaries-canada.git
+git clone https://github.com/aymanmomin/data-science-salaries-canada.git
 cd data-science-salaries-canada
 ```
 
@@ -144,7 +144,7 @@ Portfolio-ready visualization projects demonstrating data science and Python ski
 
 ## 🔗 Connect
 
-**GitHub:** [View Live Documentation →](https://yourusername.github.io/data-science-salaries-canada/)
+**GitHub:** [View Live Documentation →](https://aymanmomin.github.io/data-science-salaries-canada/)
 
 ---
 

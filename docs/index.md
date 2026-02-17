@@ -143,7 +143,7 @@ Based on research accompanying this data:
 
 Want to dive deeper? View the complete project on GitHub:
 
-**[→ View GitHub Repository](https://github.com/yourusername/data-science-salaries-canada)**
+**[→ View GitHub Repository](https://github.com/aymanmomin/data-science-salaries-canada)**
 
 Includes:
 - Complete Python source code
@@ -168,7 +168,7 @@ This project demonstrates:
 
 ## 📞 Contact
 
-**Portfolio:** [github.com/yourusername](https://github.com/yourusername)  
+**Portfolio:** [github.com/aymanmomin](https://github.com/aymanmomin)  
 **LinkedIn:** [Your LinkedIn Profile]
 
 *Open to co-op opportunities in data science, machine learning, and analytics!*
