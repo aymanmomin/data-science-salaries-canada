@@ -8,7 +8,7 @@ A collection of data visualizations analyzing salary trends across Canadian prov
 
 ### 1. Data Science Salaries Across Canada (2025)
 
-![Data Science Salaries](Viz_1_Data_Science_Salaries/data_science_salaries_canada_2025.png)
+![Data Science Salaries](output/canada_data_science_salaries_2025.png)
 
 **Key Question:** Where should data science students apply for co-op positions to maximize salary potential?
 
@@ -25,7 +25,7 @@ A collection of data visualizations analyzing salary trends across Canadian prov
 - Factors in cost of living considerations
 - Identifies geographic trade-offs for career planning
 
-**📂 Full Documentation:** [View Project Details](Viz_1_Data_Science_Salaries/)
+**📂 Full Documentation:** [View Detailed Methodology](docs/methodology.md)
 
 ---
 
@@ -72,14 +72,11 @@ source .venv/bin/activate
 pip install matplotlib numpy
 ```
 
-### Running Visualizations
+### Running the Analysis
 
 ```bash
-# Navigate to specific visualization
-cd Viz_1_Data_Science_Salaries
-
-# Run the script
-python data_science_salaries_viz.py
+# Run the visualization script
+python src/salary_analysis.py
 ```
 
 The visualization will be generated as a PNG image in the same directory.
@@ -90,14 +87,17 @@ The visualization will be generated as a PNG image in the same directory.
 
 ```
 .
-├── Viz_1_Data_Science_Salaries/
-│   ├── data_science_salaries_viz.py          # Python script
-│   ├── data_science_salaries_canada_2025.png # Output visualization
-│   ├── Personal_Vis_Week2_Documentation.md   # Detailed documentation
-│   └── README.md                              # Project-specific readme
-├── .venv/                                     # Virtual environment (not in repo)
-├── .gitignore                                 # Git ignore rules
-└── README.md                                  # This file
+├── src/
+│   └── salary_analysis.py                    # Python analysis script
+├── output/
+│   └── canada_data_science_salaries_2025.png # Generated visualization
+├── docs/
+│   ├── index.md                              # GitHub Pages site
+│   ├── methodology.md                        # Detailed methodology
+│   └── _config.yml                           # Jekyll configuration
+├── .venv/                                    # Virtual environment (not in repo)
+├── .gitignore                                # Git ignore rules
+└── README.md                                 # This file
 ```
 
 ---
@@ -135,28 +135,19 @@ Data sources maintain their original licenses (Open Government Licence - Canada 
 
 ## 👤 Author
 
-Created by Ayman for CPSC 582 - Information Visualization  
-University of Calgary, Winter 2026
+Created by Ayman - Data Science Portfolio Project
 
-Portfolio-ready visualization projects demonstrating data science and Python skills.
-
----
-
-## 🔗 Connect
-
-**GitHub:** [View Live Documentation →](https://aymanmomin.github.io/data-science-salaries-canada/)
+Demonstrating practical data analysis and visualization skills for real-world career planning.
 
 ---
 
-## 🎓 Academic Context
+## 🔗 Live Demo
 
-Created as part of CPSC 582 coursework, demonstrating:
-- Quantitative data visualization techniques
-- Python-based visualization approaches
-- Real-world career-relevant data analysis
-- Professional documentation and project organization
+**GitHub Pages:** [View Live Documentation →](https://aymanmomin.github.io/data-science-salaries-canada/)
 
-*Note: This is personal work using publicly available data, not affiliated with any organization.*
+---
+
+*This is an independent project using publicly available data to demonstrate data science and Python visualization skills.*
 
 ## Project Requirements Met
 Current (2025) official government labour market data  

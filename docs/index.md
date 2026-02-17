@@ -5,7 +5,7 @@ title: Data Science Salary Visualizations - Canada 2025
 
 # Data Science Salary Visualizations - Canada 2025
 
-> A portfolio project by Ayman - analyzing salary trends to help students make informed career decisions
+> A portfolio project analyzing salary trends to help professionals make informed career decisions
 
 ---
 
@@ -19,9 +19,9 @@ title: Data Science Salary Visualizations - Canada 2025
 
 ## 🎯 Project Overview
 
-**Research Question:** Where should data science students apply for co-op positions to maximize salary potential?
+**Research Question:** Where should data science professionals target their job search to maximize salary potential?
 
-This visualization transforms government wage data and industry salary reports into actionable career intelligence for students entering the data science field.
+This visualization transforms government wage data and industry salary reports into actionable career intelligence for professionals entering or advancing in the data science field.
 
 ---
 
@@ -114,12 +114,12 @@ This visualization transforms government wage data and industry salary reports i
 
 ## 💼 Career Applications
 
-### For Co-op Students
+### For Job Seekers
 
 This visualization directly informs:
 - **Target provinces** for job applications
 - **Salary expectations** for negotiations
-- **Career planning** for post-graduation relocation
+- **Career planning** for relocation decisions
 
 ### Hot Skills in Demand
 
@@ -153,25 +153,11 @@ Includes:
 
 ---
 
-## 🎓 Academic Context
-
-Created for **CPSC 582 - Information Visualization**  
-University of Calgary, Winter 2026
-
-This project demonstrates:
-- Quantitative data visualization techniques
-- Python-based analytical approaches
-- Real-world career-relevant data analysis
-- Professional project documentation and organization
-
----
-
 ## 📞 Contact
 
-**Portfolio:** [github.com/aymanmomin](https://github.com/aymanmomin)  
-**LinkedIn:** [Your LinkedIn Profile]
+**Portfolio:** [github.com/aymanmomin](https://github.com/aymanmomin)
 
-*Open to co-op opportunities in data science, machine learning, and analytics!*
+*Data Science & Analytics Portfolio*
 
 ---
 
@@ -187,5 +173,5 @@ If using this visualization or methodology, please attribute and link back to th
 
 <div style="text-align: center; margin-top: 50px; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
   <p><em>Last updated: February 2026</em></p>
-  <p><strong>Made with 💙 Python, matplotlib, and Canadian career data</strong></p>
+  <p><strong>Built with Python, matplotlib, and Canadian labour market data</strong></p>
 </div>
