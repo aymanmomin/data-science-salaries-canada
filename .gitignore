@@ -11,6 +11,10 @@ venv/
 ENV/
 env/
 
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
 # IDE
 .vscode/
 .idea/
