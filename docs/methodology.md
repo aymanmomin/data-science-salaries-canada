@@ -8,7 +8,7 @@
 ## 1. Data
 
 **Dataset Description:** 
-This visualization uses current (2025) wage data for Data Scientists, Database Analysts, and Machine Learning Engineers across Canadian provinces. The data includes low, median, and high hourly wages, converted to annual salaries for easier interpretation.
+This visualization uses current (2025) wage data for Data Scientists, Database Analysts, and Machine Learning Engineers across Canadian provinces. The data includes low, median, and high hourly wages, converted to annual salaries for easier interpretation by students planning their co-op applications and career paths.
 
 **Data Sources:**
 - **Primary Sources:** 
@@ -98,13 +98,14 @@ This visualization transforms raw wage data into actionable career intelligence 
 
 - **Immediate Co-op Strategy:** I should focus applications on:
   - **Alberta companies** (local advantage, no relocation, strong energy data sector)
-**Why this matters for career planning:**
+**Why this matters for students:**
 
-- **Immediate Application Strategy:** Focus applications on Alberta (local advantage, strong energy+tech data sector), BC (highest pay), and Ontario (AI corridor)
-- **Skill Development Priority:** The salary premium suggests ML/AI specialization pays significantly more than general analysis
-- **Financial Planning:** Understanding the $79-229k range helps set realistic expectations and negotiate confidently
-- **Geographic Arbitrage:** Alberta's $114k median + lower cost of living may offer better quality of life than BC's $141k + high housing costs
-- **Long-term Career View:** $229k ceiling in Alberta validates staying in the province long-term
+- **Co-op Application Strategy:** Focus applications on Alberta (local advantage, strong energy+tech data sector), BC (highest pay), and Ontario (AI corridor)
+- **Skill Development:** The salary premium suggests ML/AI specialization pays significantly more - prioritize learning TensorFlow, PyTorch, deep learning
+- **Salary Negotiation:** Understanding the $79-229k range helps set realistic co-op expectations ($25-55/hour depending on role and experience)
+- **Financial Planning:** Know that entry-level positions start at $79-83k - you can plan relocation budgets confidently
+- **Geographic Decisions:** Alberta's $114k median + lower cost of living may offer better quality of life than BC's $141k + high housing costs
+- **Long-term Planning:** $229k ceiling in Alberta shows you don't need to move to Toronto/Vancouver to maximize earnings
 
 ---
 

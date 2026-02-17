@@ -5,7 +5,7 @@ title: Data Science Salary Visualizations - Canada 2025
 
 # Data Science Salary Visualizations - Canada 2025
 
-> A portfolio project analyzing salary trends to help professionals make informed career decisions
+> Helping students make data-driven co-op and career decisions
 
 ---
 
@@ -19,9 +19,9 @@ title: Data Science Salary Visualizations - Canada 2025
 
 ## 🎯 Project Overview
 
-**Research Question:** Where should data science professionals target their job search to maximize salary potential?
+**Research Question:** Where should data science students apply for co-op and entry-level positions to maximize salary potential?
 
-This visualization transforms government wage data and industry salary reports into actionable career intelligence for professionals entering or advancing in the data science field.
+This visualization transforms government wage data and industry salary reports into actionable career intelligence for students entering the data science field.
 
 ---
 
@@ -114,12 +114,13 @@ This visualization transforms government wage data and industry salary reports i
 
 ## 💼 Career Applications
 
-### For Job Seekers
+### For Students
 
-This visualization directly informs:
-- **Target provinces** for job applications
-- **Salary expectations** for negotiations
-- **Career planning** for relocation decisions
+This visualization helps with:
+- **Co-op targeting:** Which provinces to prioritize for applications
+- **Salary expectations:** Realistic entry-level salary ranges for negotiations
+- **Career planning:** Understanding long-term earning potential by location
+- **Relocation decisions:** Weighing salary vs cost of living trade-offs
 
 ### Hot Skills in Demand
 
@@ -157,7 +158,7 @@ Includes:
 
 **Portfolio:** [github.com/aymanmomin](https://github.com/aymanmomin)
 
-*Data Science & Analytics Portfolio*
+*Data Science Student - Building projects to help fellow students navigate career decisions*
 
 ---
 

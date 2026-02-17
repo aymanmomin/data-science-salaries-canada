@@ -1,6 +1,6 @@
 # Data Science Salary Visualizations - Canada 2025
 
-A collection of data visualizations analyzing salary trends across Canadian provinces for data science and tech roles, created to help students make informed career and co-op decisions.
+A data visualization project analyzing salary trends across Canadian provinces for data science roles, helping students make informed co-op and career decisions.
 
 ---
 
@@ -10,7 +10,7 @@ A collection of data visualizations analyzing salary trends across Canadian prov
 
 ![Data Science Salaries](output/canada_data_science_salaries_2025.png)
 
-**Key Question:** Where should data science students apply for co-op positions to maximize salary potential?
+**Key Question:** Where should data science students apply for co-op and entry-level positions to maximize salary potential?
 
 **Key Findings:**
 - 🥇 **BC leads** at $141k median salary (Vancouver tech hub)
@@ -19,10 +19,11 @@ A collection of data visualizations analyzing salary trends across Canadian prov
 - 💰 **Entry to senior range:** $79k - $239k across Canada
 - 📈 **Data science premium:** 10-20% higher pay vs software engineering
 
-**What makes this useful:**
+**What makes this useful for students:**
 - Current 2025 data from Job Bank Canada, LinkedIn, and Glassdoor
-- Compares median salaries AND complete salary ranges (junior to senior)
-- Factors in cost of living considerations
+- Compares median salaries AND complete salary ranges (entry-level to senior)
+- Helps students set realistic salary expectations for co-op and negotiations
+- Factors in cost of living considerations for relocation decisions
 - Identifies geographic trade-offs for career planning
 
 **📂 Full Documentation:** [View Detailed Methodology](docs/methodology.md)
