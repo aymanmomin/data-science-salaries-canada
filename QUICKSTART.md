@@ -1,8 +1,15 @@
 # Data Science Salary Analysis - Canada 2025
 
-## Quick Start Guide
+## 🚀 Quick Start Guide
 
-### Run the Interactive Dashboard
+### 1. Install Dependencies
+
+```bash
+# Make sure you're in the project directory
+pip install -r requirements.txt
+```
+
+### 2. Run the Interactive Dashboard
 
 The easiest way to explore the data:
 
@@ -10,9 +17,11 @@ The easiest way to explore the data:
 streamlit run app.py
 ```
 
-Then open http://localhost:8501 in your browser.
+Then open **http://localhost:8501** in your browser.
 
-### Features Available
+---
+
+## ✨ Available Features
 
 1. **Filter by Province** - Compare specific provinces
 2. **Toggle Salary Types** - View nominal vs cost-of-living adjusted

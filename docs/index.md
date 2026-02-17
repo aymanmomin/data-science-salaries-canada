@@ -13,7 +13,7 @@ title: Data Science Salary Visualizations - Canada 2025
 
 ### Data Science Salaries Across Canada (2025)
 
-![Data Science Salaries Across Canadian Provinces](../Viz_1_Data_Science_Salaries/data_science_salaries_canada_2025.png)
+![Data Science Salaries Across Canadian Provinces](../output/canada_data_science_salaries_2025.png)
 
 ---
 
@@ -23,14 +23,25 @@ title: Data Science Salary Visualizations - Canada 2025
 
 This visualization transforms government wage data and industry salary reports into actionable career intelligence for students entering the data science field.
 
-### 🚀 Interactive Features
+### 🚀 Interactive Dashboard Available
 
-**Try the live dashboard:** [Streamlit App](https://github.com/aymanmomin/data-science-salaries-canada) *(Deploy instructions in repo)*
+This project includes a **Streamlit dashboard** for interactive exploration!
 
+**To run locally:**
+```bash
+git clone https://github.com/aymanmomin/data-science-salaries-canada
+cd data-science-salaries-canada
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+**Features:**
 - **Filter by province** - Compare specific regions
 - **Cost-of-living adjustments** - See real purchasing power
 - **Interactive charts** - Explore salary distributions
 - **Student-focused insights** - Personalized recommendations
+
+*Want to deploy your own? Check the README for free Streamlit Cloud deployment instructions!*
 
 ---
 

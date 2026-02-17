@@ -99,14 +99,14 @@ pip install -r requirements.txt
 
 ### Running the Project
 
-**Option 1: Interactive Dashboard (Recommended)**
+**🎯 Option 1: Interactive Dashboard (Recommended)**
 ```bash
 # Launch the Streamlit dashboard
 streamlit run app.py
 ```
 Open your browser to `http://localhost:8501` to explore the interactive dashboard.
 
-**Option 2: Jupyter Notebook Analysis**
+**📓 Option 2: Jupyter Notebook Analysis**
 ```bash
 # Launch Jupyter
 jupyter notebook
@@ -192,38 +192,26 @@ Demonstrating practical data analysis and visualization skills for real-world ca
 
 ---
 
-## 🔗 Live Demo
+## 🌐 Deployment Options
 
-**GitHub Pages:** [View Live Documentation →](https://aymanmomin.github.io/data-science-salaries-canada/)
+### Run Locally (Quick Start)
+```bash
+# After installing dependencies
+streamlit run app.py
+# Open http://localhost:8501
+```
+
+### Deploy to Streamlit Cloud (Free)
+1. Push this repo to your GitHub
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Connect your GitHub account
+4. Select this repository and `app.py` as the main file
+5. Click "Deploy"!
+6. Get a free public URL to share on your resume
+
+### View Documentation
+**GitHub Pages:** [View Project Documentation →](https://aymanmomin.github.io/data-science-salaries-canada/)
 
 ---
 
 *This is an independent project using publicly available data to demonstrate data science and Python visualization skills.*
-
-## Project Requirements Met
-Current (2025) official government labour market data  
-✅ **Tools** - Python with matplotlib (dual-panel visualization)  
-✅ **Encodings** - Bar chart + range plot showing salary spectrums  
-✅ **Goal/Value** - Actionable insights for co-op applications and career planning  
-✅ **Reflection** - Comprehensive technical and career learning patterns and personal context  
-✅ **Reflection** - Detailed learning outcomes documented  
-
-## Personal Interest Alignment
-
-This omputer Science** - Visualizing CS career data with programming
-- **Finding Co-op** - Direct salary insights for co-op applications  
-- **Finance** - Understanding earning potential and ROI on education
-- **Education** - Career outcomes from CS degree programs
-- **Canadian Job Market** - Geographic salary differences across provinces
-- **Finding Co-op** - Understanding international student job market context
-
-## Author
-
-Created by Ayman  
-University of Calgary - CPSC 582  
-January 2026
-
-## License
-
-Data: Open Government Licence - Canada  
-Visualization: Created for educational purposes
