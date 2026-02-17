@@ -23,6 +23,15 @@ title: Data Science Salary Visualizations - Canada 2025
 
 This visualization transforms government wage data and industry salary reports into actionable career intelligence for students entering the data science field.
 
+### 🚀 Interactive Features
+
+**Try the live dashboard:** [Streamlit App](https://github.com/aymanmomin/data-science-salaries-canada) *(Deploy instructions in repo)*
+
+- **Filter by province** - Compare specific regions
+- **Cost-of-living adjustments** - See real purchasing power
+- **Interactive charts** - Explore salary distributions
+- **Student-focused insights** - Personalized recommendations
+
 ---
 
 ## 🔍 Key Findings

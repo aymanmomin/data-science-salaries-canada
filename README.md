@@ -30,11 +30,35 @@ A data visualization project analyzing salary trends across Canadian provinces f
 
 ---
 
-## 🛠️ Technologies Used
+## � Features
+
+### 📊 Interactive Dashboard
+- **Live filtering** by province and salary type
+- **Cost-of-living adjustments** for accurate purchasing power comparison
+- **Real-time visualizations** with matplotlib integration
+- **Sortable data tables** with gradient highlighting
+- **Student-focused insights** and recommendations
+
+### 📓 Jupyter Notebook Analysis
+- **Step-by-step data exploration** with explanations
+- **Statistical analysis** and key metrics
+- **Multiple visualizations** comparing different perspectives
+- **Exportable results** for further analysis
+
+### 📈 Static Visualizations
+- Original dual-panel salary comparison
+- Cost-of-living adjusted comparisons  
+- Career growth potential analysis
+
+---
+
+## �🛠️ Technologies Used
 
 - **Python 3.13** - Primary programming language
-- **matplotlib** - Data visualization library
-- **numpy** - Numerical computing and data manipulation
+- **matplotlib & seaborn** - Data visualization libraries
+- **pandas & numpy** - Data manipulation and analysis
+- **Streamlit** - Interactive web dashboard
+- **Jupyter** - Data exploration notebooks
 
 ---
 
@@ -70,10 +94,27 @@ source .venv/bin/activate
 
 3. Install dependencies:
 ```bash
-pip install matplotlib numpy
+pip install -r requirements.txt
 ```
 
-### Running the Analysis
+### Running the Project
+
+**Option 1: Interactive Dashboard (Recommended)**
+```bash
+# Launch the Streamlit dashboard
+streamlit run app.py
+```
+Open your browser to `http://localhost:8501` to explore the interactive dashboard.
+
+**Option 2: Jupyter Notebook Analysis**
+```bash
+# Launch Jupyter
+jupyter notebook
+
+# Open notebooks/data_exploration.ipynb
+```
+
+**Option 3: Generate Static Visualization**
 
 ```bash
 # Run the visualization script
@@ -90,12 +131,20 @@ The visualization will be generated as a PNG image in the same directory.
 .
 ├── src/
 │   └── salary_analysis.py                    # Python analysis script
+├── notebooks/
+│   └── data_exploration.ipynb                # Interactive data exploration
+├── data/
+│   └── salary_data.csv                       # Raw salary data
 ├── output/
-│   └── canada_data_science_salaries_2025.png # Generated visualization
+│   ├── canada_data_science_salaries_2025.png # Original visualization
+│   ├── salary_comparison_adjusted.png        # CoL-adjusted comparison
+│   └── career_growth_analysis.png            # Growth potential chart
 ├── docs/
 │   ├── index.md                              # GitHub Pages site
 │   ├── methodology.md                        # Detailed methodology
 │   └── _config.yml                           # Jekyll configuration
+├── app.py                                    # Streamlit dashboard
+├── requirements.txt                          # Python dependencies
 ├── .venv/                                    # Virtual environment (not in repo)
 ├── .gitignore                                # Git ignore rules
 └── README.md                                 # This file
@@ -118,10 +167,11 @@ License: Open Government Licence - Canada (for Job Bank data)
 
 ## 🎯 Skills Demonstrated
 
-- **Data Analysis:** Processing and transforming raw salary data
-- **Python Programming:** Clean, efficient code with proper structure
-- **Data Visualization:** Creating clear, insightful dual-panel charts
-- **Research Skills:** Gathering and validating data from multiple sources
+- **Data Analysis:** Processing salary data from multiple sources with cost-of-living adjustments
+- **Python Programming:** Clean, efficient, well-documented code
+- **Data Visualization:** Multiple chart types (bar charts, range plots, adjusted comparisons)
+- **Web Development:** Interactive Streamlit dashboard deployment
+- **Statistical Analysis:** Comparative analysis and purchasing power calculations
 - **Communication:** Translating data insights into actionable career advice
 
 ---
